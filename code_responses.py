@@ -38,7 +38,7 @@ from rubric import RUBRIC
 # Config
 # ---------------------------------------------------------------------------
 
-MODEL = "claude-opus-4-7"
+MODEL = "claude-sonnet-4-6"
 INPUT_FILE = "Open Responses.xlsx"
 OUTPUT_FILE = "Open Responses - Coded.xlsx"
 CHECKPOINT_FILE = ".coding_checkpoint.jsonl"
