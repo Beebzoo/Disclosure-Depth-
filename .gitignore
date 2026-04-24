@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.coding_checkpoint.jsonl
+Open Responses - Coded.xlsx
